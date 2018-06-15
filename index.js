@@ -17,8 +17,9 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n+=
+  return n +=
 }
+
 it('inc(n) increments n and returns the result', function() {
   expect(inc(a)).toEqual(a + 1)
 })
